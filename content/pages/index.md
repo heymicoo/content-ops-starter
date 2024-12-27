@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: SHIRLY YORK
+      label: SUBHEADING
       color: text-primary
       type: Badge
     elementId: ''
